@@ -27,7 +27,7 @@ static void	dllist(t_listc *listc)
 	}
 }
 
-t_listc		*crlist(void)
+static t_listc		*crlist(void)
 {
 	t_listc	*listc;
 
